@@ -1,1 +1,42 @@
-# papers_reproducibility
+# Papers Reproducibility
+
+This repository collects paper materials for reproducibility purposes. Each folder contains a complete zipped repository used for a specific research work, allowing anyone to reproduce the results of our published papers.
+
+## Related Libraries
+
+This research builds upon two core libraries:
+- [kannolo](https://github.com/TusKANNy/kannolo) - A library for knowledge-aware neural network operations
+- [seismic](https://github.com/TusKANNy/seismic) - A library for semantic information retrieval
+
+## Papers
+
+The following papers are included in this repository in chronological order:
+
+- [Multivector Reranking in the Era of Strong First-Stage Retrievers (ECIR 2026)](ecir_2026/)
+
+## How to Reproduce Results
+
+To reproduce the results of a specific work, follow these steps:
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/TusKANNy/papers_reproducibility.git
+   cd papers_reproducibility
+   ```
+
+2. **Navigate to the relevant paper folder:**
+   ```bash
+   cd <paper_folder>
+   ```
+   For example, for the ECIR 2026 paper:
+   ```bash
+   cd ecir_2026
+   ```
+
+3. **Unzip the repository archive:**
+   ```bash
+   unzip *.zip
+   ```
+
+4. **Follow the instructions in the unzipped README:**
+   Each unzipped folder contains its own README with specific instructions to reproduce the results of that particular paper.
