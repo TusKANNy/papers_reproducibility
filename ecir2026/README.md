@@ -1,6 +1,6 @@
 # Multivector Reranking in the Era of Strong First-Stage Retrievers
 
-This folder contains the reproducibility materials for the paper **"Multivector Reranking in the Era of Strong First-Stage Retrievers"** presented at ECIR 2026.
+This folder contains the reproducibility materials for the paper **"Multivector Reranking in the Era of Strong First-Stage Retrievers"**, to be presented at ECIR 2026.
 
 ## Citation
 
