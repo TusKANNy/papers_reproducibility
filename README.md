@@ -39,4 +39,4 @@ To reproduce the results of a specific work, follow these steps:
    ```
 
 4. **Follow the instructions in the unzipped README:**
-   Each unzipped folder contains its own README with specific instructions to reproduce the results of that particular paper.
+   Each unzipped folder contains its own `REPRODUCTION_GUIDE.md` with specific instructions to reproduce the results of that particular paper.
