@@ -12,7 +12,7 @@ This research builds upon two core libraries:
 
 The following papers are included in this repository in chronological order:
 
-- [Multivector Reranking in the Era of Strong First-Stage Retrievers (ECIR 2026)](ecir_2026/)
+- [Multivector Reranking in the Era of Strong First-Stage Retrievers (ECIR 2026)](ecir2026/)
 
 ## How to Reproduce Results
 
@@ -30,7 +30,7 @@ To reproduce the results of a specific work, follow these steps:
    ```
    For example, for the ECIR 2026 paper:
    ```bash
-   cd ecir_2026
+   cd ecir2026
    ```
 
 3. **Unzip the repository archive:**
