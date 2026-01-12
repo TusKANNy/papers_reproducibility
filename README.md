@@ -5,8 +5,8 @@ This repository collects paper materials for reproducibility purposes. Each fold
 ## Related Libraries
 
 This research builds upon two core libraries:
-- [kannolo](https://github.com/TusKANNy/kannolo) - A library for knowledge-aware neural network operations
-- [seismic](https://github.com/TusKANNy/seismic) - A library for semantic information retrieval
+- [kANNolo](https://github.com/TusKANNy/kannolo) 
+- [Seismic](https://github.com/TusKANNy/seismic) 
 
 ## Papers
 
